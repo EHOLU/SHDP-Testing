@@ -218,7 +218,7 @@ describe('non-prod sso', function () {
 		scrolling();
 	})
 
-	// //***** Verifying farmer rule M5 *******//
+	// //***** Verifying farmer rule M5 *******/
 
 	
 
